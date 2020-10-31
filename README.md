@@ -14,6 +14,6 @@
 - public Student(int stuId,String stuName,String sex)
 - public Course(int courseId,String courseName,float credit,Teacher teacher)
 # UML图
-![alert]()
+![alert](https://github.com/shenlu-hub/-/blob/main/%E5%AE%9E%E9%AA%8C%E4%B8%89UML.PNG)
 
 
