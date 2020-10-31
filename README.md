@@ -71,6 +71,7 @@ stu0.displayCourse();
  ```
 # 运行结果
 如图，把course中定义的课程对象赋值给teacher和student
+### 运行结果如图
 ![alert](https://github.com/shenlu-hub/-/blob/main/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.PNG)
 # 编程感想
 - 掌握了面向对象的类设计方法
