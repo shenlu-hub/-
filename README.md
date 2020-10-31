@@ -69,3 +69,11 @@ stu0.displayCourse();
         return flag;
     }
  ```
+# 运行结果
+如图，把course中定义的课程对象赋值给teacher和student
+![alert](https://github.com/shenlu-hub/-/blob/main/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.PNG)
+# 编程感想
+- 掌握了面向对象的类设计方法
+- 掌握了继承和封装的用法
+- 学会了在主类中调用toString
+- 创建teacher类时，发现不能给老师所教授的科目赋值，总是报错，仔细检查过是因为没有在course中添加addTeacher方法，面向对象的值要一层一层的往下传，这个以后要多注意
